@@ -73,9 +73,9 @@ This code provides a basic framework for creating a proxy server using Cloudflar
 
 ## for users in Mainland China
 
-We highly recommed you set the your domain's DNS as "'yourdomain.example.com' -> CNAME -> 'cf-saas.asia'".
-Click "workers Routes" and choose this worker project.
-Set "yourdomain.example.com" routes to this worker project.
-Then you will see the loading speed will be obviously faster than before.
-You will see if you access "yourdomain.example.com", "example.com" will be shown.
-Enjoy it!
+- We highly recommed you set the your domain's DNS as "'yourdomain.example.com' -> CNAME -> 'cf-saas.asia'".
+- Click "workers Routes" and choose this worker project.
+- Set "yourdomain.example.com" routes to this worker project.
+- Then you will see the loading speed will be obviously faster than before.
+- You will see if you access "yourdomain.example.com", "example.com" will be shown.
+- Enjoy it!
