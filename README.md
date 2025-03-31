@@ -70,3 +70,12 @@ This README provides instructions on how to use the provided JavaScript code to 
 ## Conclusion
 
 This code provides a basic framework for creating a proxy server using Cloudflare Workers. By following the setup instructions and understanding the code's functionality, you can customize and deploy a proxy tailored to your specific needs.
+
+## for users in Mainland China
+
+We highly recommed you set the your domain's DNS as "'yourdomain.example.com' -> CNAME -> 'cf-saas.asia'".
+Click "workers Routes" and choose this worker project.
+Set "yourdomain.example.com" routes to this worker project.
+Then you will see the loading speed will be obviously faster than before.
+You will see if you access "yourdomain.example.com", "example.com" will be shown.
+Enjoy it!
