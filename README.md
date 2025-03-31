@@ -78,4 +78,4 @@ This code provides a basic framework for creating a proxy server using Cloudflar
 - Set the routes for "yourdomain.example.com" to this worker project.
 - You will notice that the loading speed is significantly faster than before.
 - When you access "yourdomain.example.com", "example.com" will be displayed.
-- Enjoy!
+- Enjoy
